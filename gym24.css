@@ -662,10 +662,10 @@ footer{
         text-align: center;
     }
     .footer-logo{
-        margin-left: 100px;
+        margin-left: 110px;
     }
     .footer-info p{
-        margin-left: 60px;
+        text-align: center;
     }
     .footer-contact{   
         align-items: center;
