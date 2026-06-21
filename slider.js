@@ -7,10 +7,10 @@ const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
 
 const sliderImages = [
-    './images/gym-1.png',
-    './images/gym-2.png',
-    './images/gym-3.png',
-    './images/gym-4.png',
+    'gym-1.png',
+    'gym-2.png',
+    'gym-3.png',
+    'gym-4.png',
 ]
 
 // create slider function
